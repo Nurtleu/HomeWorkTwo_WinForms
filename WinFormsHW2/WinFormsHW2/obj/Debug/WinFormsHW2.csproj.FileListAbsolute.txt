@@ -1,0 +1,10 @@
+D:\WindowsForms\HomeWork\WinFormsHW2\WinFormsHW2\bin\Debug\WinFormsHW2.exe.config
+D:\WindowsForms\HomeWork\WinFormsHW2\WinFormsHW2\bin\Debug\WinFormsHW2.exe
+D:\WindowsForms\HomeWork\WinFormsHW2\WinFormsHW2\bin\Debug\WinFormsHW2.pdb
+D:\WindowsForms\HomeWork\WinFormsHW2\WinFormsHW2\obj\Debug\WinFormsHW2.csprojResolveAssemblyReference.cache
+D:\WindowsForms\HomeWork\WinFormsHW2\WinFormsHW2\obj\Debug\WinFormsHW2.Form1.resources
+D:\WindowsForms\HomeWork\WinFormsHW2\WinFormsHW2\obj\Debug\WinFormsHW2.Properties.Resources.resources
+D:\WindowsForms\HomeWork\WinFormsHW2\WinFormsHW2\obj\Debug\WinFormsHW2.csproj.GenerateResource.Cache
+D:\WindowsForms\HomeWork\WinFormsHW2\WinFormsHW2\obj\Debug\WinFormsHW2.csproj.CoreCompileInputs.cache
+D:\WindowsForms\HomeWork\WinFormsHW2\WinFormsHW2\obj\Debug\WinFormsHW2.exe
+D:\WindowsForms\HomeWork\WinFormsHW2\WinFormsHW2\obj\Debug\WinFormsHW2.pdb
